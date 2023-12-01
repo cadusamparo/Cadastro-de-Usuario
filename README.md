@@ -15,12 +15,12 @@ o objetivo é mexer mais com o front e o back end juntos, assim, tendo o melhor 
 - Criar componentes do cadastro de úsuario
 - - Adicionar responsividade
 
-## Interface
+# Interface
 
-#Início
+## Início
 ![Img1](https://github.com/cadusamparo/Cadastro-de-Usuario/assets/128712778/d9d2180f-f486-49fa-aeb0-e1f61026e8ae)
 
-#Usuários
+## Usuários
 ![Img2](https://github.com/cadusamparo/Cadastro-de-Usuario/assets/128712778/67e28113-b345-4cc5-93a5-8825e729e431)
 
 # Tecnologias utilizadas
