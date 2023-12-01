@@ -4,7 +4,7 @@
 
 Aplicação front end feita ao longo das aulas do curso **[Curso Web Moderno Completo com JavaScript + Projetos](https://www.udemy.com/course/curso-web/)
 
-o objetivo é mexer mais com o front e o back end juntos, assim, tendo o melhor conhecimento com os dois trabalhando lado a lado.
+O objetivo é mexer mais com o front e o back end juntos, assim, tendo o melhor conhecimento com os dois trabalhando lado a lado.
 
 # Objetivos
 
