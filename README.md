@@ -13,7 +13,7 @@ O objetivo é mexer mais com o front e o back end juntos, assim, tendo o melhor 
 - Criar componentes
 - Aplicar estilo
 - Criar componentes do cadastro de úsuario
-- - Adicionar responsividade
+- Adicionar responsividade
 
 # Interface
 
